@@ -2,18 +2,13 @@
   "problems": [
     {
       "id": 1,
-      "rank": "10kyu",
-      "topic": "life & death",
-      "sgf": [
-        "(;FF[4]GM[1]SZ[19]",
-
-        "GN[Copyright goproblems.com]",
-        "RU[Japanese]",
-
-        ";AW[bb][cb][cc][cd][de][df][cg][ch][dh][ai][bi][ci]",
-        "AB[ba][ab][ac][bc][bd][be][cf][bg][bh]",
-        "(;B[ce];W[af];B[bg]))"
-      ]
+      "rank": "10k",
+      "problem": "(;GM[1]FF[4]SZ[19]CP[Xuanxuan Qijing Problems]BR[10k]WR[10k]AB[il][kl][kj][hj][ii]AW[jk]PL[W];W[jj];B[ki];W[ik];B[hl];W[ji];B[jh];W[ih];B[kk];W[hi];B[ij];W[hk])"
+    },
+    {
+      "id": 2,
+      "rank": "13k",
+      "problem": "(;GM[1]FF[4]SZ[19]CP[Xuanxuan Qijing Problems]BR[13k]WR[13k]AB[rc][qc][pc][ob]AW[rb][qb][pb]PL[W];W[nb];B[oa];W[oc];B[nc];W[od];B[mb];W[sb];B[ra];W[nd];B[mc];W[rd];B[qd];W[qe];B[re];W[sc];B[sd];W[pd];B[rd];W[rf])"
     }
   ]
 }
